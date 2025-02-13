@@ -50,7 +50,7 @@ python asl_predictor.py
 
 ## Screenshot
 
-![App Interface](screenshot.png)
+![App Interface](Screenshot.png)
 
 
 
