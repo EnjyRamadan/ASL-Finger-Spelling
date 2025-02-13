@@ -38,7 +38,7 @@ git clone [https://github.com/yourusername/asl-alphabet-predictor.git](https://g
 
 ## How to Run
 ```bash
-python asl_predictor.py
+python main.py
 ```
 
 ## How to Use
