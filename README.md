@@ -32,7 +32,7 @@ pip install tensorflow numpy pillow opencv-python tkinter
 
 ### Clone Repository:
 ```bash
-git clone [https://github.com/yourusername/asl-alphabet-predictor.git](https://github.com/EnjyRamadan/ASL-Finger-Spelling.git)
+git clone https://github.com/EnjyRamadan/ASL-Finger-Spelling.git
 
 ```
 
