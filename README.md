@@ -48,7 +48,7 @@ python asl_predictor.py
 3. **View Predictions**: See the predicted letter and confidence scores from different models.
 4. **Restart**: Select another image and repeat.
 
-## Screenshot
+## GUI
 
 ![App Interface](Screenshot.png)
 
